@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/adt-bundle-linux-x86_64-20130522/sdk/extras/android/support/v7/appcompat/appcompat.iml" filepath="$USER_HOME$/adt-bundle-linux-x86_64-20130522/sdk/extras/android/support/v7/appcompat/appcompat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testForV7.iml" filepath="$PROJECT_DIR$/testForV7.iml" />
+    </modules>
+  </component>
+</project>
